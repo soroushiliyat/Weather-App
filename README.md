@@ -25,6 +25,7 @@ API: Open-Meteo
 Tooling: Vite, ESLint, Prettier
 
 ##Project Structure
+
 src/
 ├── components/        # Reusable UI components
 ├── services/          # API logic (getCoordinates, getWeather, etc.)
@@ -35,11 +36,13 @@ src/
 
 
 👨‍💻 About the Developer
+
 Soroush Iliyat
 Junior React Developer & UI/UX enthusiast
 📍 Based in Tehran, available for remote opportunities in Europe
 
 📃 License
+
 MIT — free to use, modify, and share.
 
 
