@@ -15,9 +15,13 @@ https://weather-app-nine-livid-10.vercel.app
 - ⚡ Fast & Lightweight: built with Vite + TypeScript
 
 🛠️ Tech Stack
+
 Frontend: React + TypeScript
+
 Styling: TailwindCSS
+
 API: Open-Meteo
+
 Tooling: Vite, ESLint, Prettier
 
 ##Project Structure
